@@ -44,5 +44,12 @@ public class SmartTv {
             System.out.println("Impossível concluir ação!");
         }
     }
+    public void mudarCanal(int novoCanal){
+        canal = novoCanal;
+    }
+    public void imprimir(){
+        System.out.println("Canal atual: " + canal);
+        System.out.println("Volume atual: " + volume);
+    }
 
 }

@@ -9,5 +9,9 @@ public class Usuario {
         smartTv.ligar();
 
         smartTv.aumentarVolume();
+
+        smartTv.mudarCanal(14);
+
+        smartTv.imprimir();
     }
 }
