@@ -8,9 +8,6 @@ public class Usuario {
 
         smartTv.ligar();
 
-
-        smartTv.aumentarVolume();
-        smartTv.aumentarVolume();
         smartTv.aumentarVolume();
     }
 }
