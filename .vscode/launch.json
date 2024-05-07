@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "JAVA-1_526cc745"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "ControleSimplesDeSaques",
+            "request": "launch",
+            "mainClass": "ControleSimplesDeSaques",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakContinue",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinue",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "FazerComDoWhile",
+            "request": "launch",
+            "mainClass": "FazerComDoWhile",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "FazerComFor",
+            "request": "launch",
+            "mainClass": "FazerComFor",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "FazerComForEmArrays",
+            "request": "launch",
+            "mainClass": "FazerComForEmArrays",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "FazerComWhile",
+            "request": "launch",
+            "mainClass": "FazerComWhile",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "PlanoOperadora",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarTernaria",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarTernaria",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "SistemaMedida",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "Usuario(1)",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "VerificacaoChequeEspecial",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "VerificadorNumeroConta",
+            "projectName": "controleCandidatos"
+        },
+        {
+            "type": "java",
+            "name": "declaracaoDeVariaveis",
+            "request": "launch",
+            "mainClass": "declaracaoDeVariaveis",
+            "projectName": "controleCandidatos"
+        }
+    ]
+}

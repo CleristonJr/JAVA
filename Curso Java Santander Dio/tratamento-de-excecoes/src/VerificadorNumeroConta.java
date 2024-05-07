@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class App {
-
+public class VerificadorNumeroConta { 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -30,15 +29,13 @@ public class App {
         }
     }
 
-    // Declaração do método verificarNumeroConta, que verifica se o número de conta
-    // tem exatamente 8 dígitos:
+    // Declaração do método verificarNumeroConta, que verifica se o número de conta tem exatamente 8 dígitos:
     private static void verificarNumeroConta(String numeroConta) {
 
         // TODO: Verifique se o número da conta tem exatamente 8 dígitos:
         if (numeroConta.length() != 8) {
-            // TODO: Implemente uma exceção do tipo IllegalArgumentException, caso o número
-            // de conta não tenha 8 dígitos:
-            throw new IllegalArgumentException("Erro: Numero de conta invalido. Digite exatamente 8 digitos.");
+            // TODO: Implemente uma exceção do tipo IllegalArgumentException, caso o número de conta não tenha 8 dígitos:
+            throw new IllegalArgumentException("Numero de conta invalido. Digite exatamente 8 digitos.");
         }
     }
 }
