@@ -1,4 +1,4 @@
-package usuario;
+package list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ public class CarrinhoDeCompras {
 	
 	public void adicionarItem(String nome, double preco, int quantidade) {
 		List<Item> itemParaAdicionar = new ArrayList<>();
-		for (Item i : itemList) {
+		for (Item i : itemParaAdicionar) {
 			if(i.getNome().equalsIgnoreCase(nome)) {
 				itemParaAdicionar.add(i);
 			}
@@ -25,7 +25,7 @@ public class CarrinhoDeCompras {
 	
 	public void removerItem(String nome) {
 		List<Item> itemParaRemover = new ArrayList<>();
-		for (Item i : itemList) {
+		for (Item i : itemParaRemover) {
 			if(i.getNome().equalsIgnoreCase(nome)) {
 				itemParaRemover.add(i);
 			}
